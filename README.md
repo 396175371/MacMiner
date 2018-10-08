@@ -9,10 +9,11 @@ Mac Bitcoin, Litecoin and alt coin miner GUI interface for mining and monitoring
 
 This project can essentially be downloaded and built immediately in Xcode. You may need to change code signing settings.
 
-Development is no longer active - if you know your way around Xcode any tips or commits would be much appreciated by me and the community! I would be very proud to see anyone fork MacMiner for a future project, and will merge minor commit requests if they're made.
+Development is less active than it has been in the past - if you know your way around Xcode any tips or commits would be much appreciated by me and the community! I would be very proud to see anyone fork MacMiner for a future project, and will merge minor commit requests if they're made.
 
 The code is not provided here for bfgminer or it's api-example.c which is used to compile apiaccess, neither are cgminer or minerd (pooler's cpuminer) - these are available on github with their respective authors. Binaries are included here for ease of compilation.
 
 LEGAL DISCLAIMER: I TAKE NO RESPONSIBILITY FOR YOUR USE OF THIS PROJECT OR ANYTHING RELATED TO IT. ANY DAMAGES INCURRED AS A RESULT OF YOUR DOWNLOAD, USE, DISTRIBUTION OR MODIFICATION OF THIS PROJECT ARE YOUR OWN RESPONSIBILITY.
 
 BFGMINER AND CGMINER ARE LICENSED UNDER GPLv3 AND WERE NOT MODIFIED FOR USE WITH MACMINER. I GRANT FULL PERMISSION FOR MACMINER/THIS PROJECT TO BE USED - IF YOU TAKE FULL RESPONSIBILITY FOR IT'S USE AND THE IMPLICATIONS THEREOF AND AGREE THAT I (JOHN O'MARA/FABULOUSPANDA) BEAR NO RESPONSIBILITY FOR YOUR ACTIONS - IN ANY NON-COMMERCIAL REDISTRIBUTION OR CODE MODIFICATION PROVIDED THAT THOSE MODIFICATIONS ARE MADE PUBLICALLY AVAILABLE ON GITHUB AND ATTRIBUTED TO THIS PROJECT. YOU MAY NOT UNDER ANY CIRCUMSTANCES CHARGE FOR THIS CODE, MODIFICATIONS OF THIS CODE OR IN ANY WAY PROFIT THROUGH IT'S DISTRIBUTION, REDISTRIBUTION OR DISTRIBUTIONS OF CODE OR SOFTWARE THAT USE ANY PART OF THE CODE IN THIS PROJECT WITHOUT THE EXPLICIT WRITTEN PERMISSION OF JOHN O'MARA (FABULOUSPANDA) THE PRIMARY AUTHOR OF MACMINER.
+
